@@ -1,0 +1,21 @@
+# Local custom data
+homework/answers.txt
+homework/*answers*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# AirScript / local build artifacts
+dist/
+build/
+*.log
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
